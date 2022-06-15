@@ -1,6 +1,6 @@
 # CompleteProject
 Spring-react-Complete-Project
-<img width="343" alt="image" src="https://user-images.githubusercontent.com/71507908/173808469-2d60258b-4e1e-4cd9-ae43-1281dfaeea87.png">
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/71507908/173808469-2d60258b-4e1e-4cd9-ae43-1281dfaeea87.png">
 <img width="325" alt="image" src="https://user-images.githubusercontent.com/71507908/173808492-dbdff4ea-0bfa-4ed6-996a-6595d17fd7fd.png">
 <img width="364" alt="image" src="https://user-images.githubusercontent.com/71507908/173808510-56d2f9e0-7605-475f-b1e9-b001b080c087.png">
 <img width="309" alt="image" src="https://user-images.githubusercontent.com/71507908/173808522-64e30249-6b9b-4c5c-a3a8-b7e41915da65.png">
